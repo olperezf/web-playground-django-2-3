@@ -1,7 +1,5 @@
 # Proyecto Django/Python (nivel avanzado)
 
-basado en el curso de: https://www.udemy.com/course/curso-django-2-practico-desarrollo-web-python-3/
-
 Proyecto centrado puramente en el Backend
 
 Estructura de la página:  
